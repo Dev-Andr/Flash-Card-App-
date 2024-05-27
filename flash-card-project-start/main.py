@@ -3,7 +3,7 @@ import pandas
 import random
 import json
 
-green = "#"
+green = "#B1DDC6"
 
 t, v = None, None
 j = 10
