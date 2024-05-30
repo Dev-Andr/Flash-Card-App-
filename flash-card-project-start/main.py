@@ -8,7 +8,7 @@ green = "#B1DDC6"
 t, v = None, None
 j = 10
 unknown = []
-
+#code
 
 def update_text():
     print("HAHA")
