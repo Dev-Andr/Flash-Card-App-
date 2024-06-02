@@ -4,7 +4,7 @@ import random
 import json
 
 green = "#B1DDC6"
-
+#comm
 t, v = None, None
 j = 10
 unknown = []
